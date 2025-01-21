@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983843065218",
+    "project_id": "village-f1c7a",
+    "storage_bucket": "village-f1c7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983843065218:android:eb3617013ff943dc8fd39b",
+        "android_client_info": {
+          "package_name": "com.bgs.VenusSentinel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-6QcoUJ0jpMYMPcTU8zNq3GLVZNx6yqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

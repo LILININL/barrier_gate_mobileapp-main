@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "barrier_gate_mobileapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "barrier_gate_mobileapp (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "barrier_gate_mobileapp (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dropdown_search2",
+            "cwd": "lib\\include_widget\\dropdown_search2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dropdown_search2 (profile mode)",
+            "cwd": "lib\\include_widget\\dropdown_search2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dropdown_search2 (release mode)",
+            "cwd": "lib\\include_widget\\dropdown_search2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_rounded_date_picker",
+            "cwd": "lib\\include_widget\\flutter_rounded_date_picker",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_rounded_date_picker (profile mode)",
+            "cwd": "lib\\include_widget\\flutter_rounded_date_picker",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_rounded_date_picker (release mode)",
+            "cwd": "lib\\include_widget\\flutter_rounded_date_picker",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
